@@ -1,8 +1,7 @@
 # josenildocosta
+<img align="left" src="https://i.pinimg.com/originals/62/38/02/62380218e399ea797327ed33339b14e4.gif">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=josenildocosta&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue" alt="josenildocosta's Github Stats">
-
-# Technologies
 
 These are some of the technologies and tools that I work with:
 
