@@ -33,3 +33,4 @@ These are some of the technologies and tools that I work with:
 ![Postgres](https://img.shields.io/badge/-Postgres-007ACC?style=flat-square&logo=postgres&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenildocosta&layout=compact)](https://github.com/josenildocosta/github-readme-stats)
+
