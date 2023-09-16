@@ -3,10 +3,9 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=josenildocosta&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs&theme=vue&include_all_commits=false" alt="josenildocosta's Github Stats">
 -->
-<img/>
-<img/>
-<img/>
-<img/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenildocosta&layout=compact)](https://github.com/josenildocosta/github-readme-stats)
+
+
 <br/>
 <br/>
 <br/>
@@ -36,5 +35,4 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-007ACC?style=flat-square&logo=postgres&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenildocosta&layout=compact)](https://github.com/josenildocosta/github-readme-stats)
 
